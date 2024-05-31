@@ -2,6 +2,8 @@
 
 Completed
 ----------
+Using KNN
+
 Coffee leaf diseases have a significant impact on the health and productivity
 of coffee plants, affecting the quality and quantity of coffee production. Timely and
 accurate detection of these diseases is essential for effective disease management.
